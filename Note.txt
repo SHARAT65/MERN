@@ -1,0 +1,3 @@
+// Completely Running
+Just Give Npm Start
+Dont Push to Git
